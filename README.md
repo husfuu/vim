@@ -9,7 +9,7 @@
 - `l` : right
 
 ### Navigate Looping
-- normal mode -> number -> {navigate button}
+- number -> {navigate button}
 
 ## Delete Characters
 - normal mode -> `x` : delete char like bacspace button
